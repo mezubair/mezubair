@@ -1,5 +1,7 @@
 <h1 style= text-align: "center">Hi 👋 i am Zubair javaid </h1>
 
+[![](https://visitcount.itsvg.in/api?id=Mezubair&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Real - Esate <br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -24,6 +26,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Mezubair&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mezubair&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
